@@ -1,13 +1,13 @@
 {
   "name": "pdf-merge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Merges provided PDFs and splits them into even and odd segments",
   "main": "dist/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "spuggle",
+  "license": "MIT",
   "dependencies": {
     "pdf-lib": "^1.9.0"
   },
