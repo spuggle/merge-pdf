@@ -2,3 +2,5 @@ node_modules/
 dist/
 in/
 out/
+temp/
+.vscode/
